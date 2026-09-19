@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+it blooms once the animation starts
 
 ## How to test
 
-Explain how to use your project
+it can be tested by playing the animation
 
 ## External hardware
 
